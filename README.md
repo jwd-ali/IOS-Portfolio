@@ -97,7 +97,8 @@ Senior iOS developer. My responsibilites were to communicate with product owner,
 
 
 ## [SBAImagePickerController](https://github.com/shoaib-akhtar/SBAImagePickerController) 
-An easy multiple image picker controller for photo library.
+An easy multiple image picker controller for photo library with swipe select enabled.
+* IOS 13 Dark mode enabled 
 <p align="center">
 <a href="https://imgflip.com/gif/37ft7x"><img src="https://i.imgflip.com/37ft7x.gif" title="made at imgflip.com"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://imgflip.com/gif/38fus8"><img src="https://i.imgflip.com/38fus8.gif" title="made at imgflip.com"/></a>
