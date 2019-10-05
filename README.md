@@ -32,7 +32,7 @@ Objective c, Reachability kit modified to add date support, CoreLocation, AVFoun
 <p align="center">
 <img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Slick/SlickTheme.png" title="Slick Theme"></p>
 <p align="center">
-<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Slick/uploadUrl.png" width="150" title="Post Article">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Slick/unnamed.png" width="150" title="Rate Article">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Slick/profile.png" width="150" title="User Profile">
+<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Slick/uploadUrl.png" width="150" title="Post Article">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Slick/unnamed.png" width="150" title="Rate Article">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Slick/profile.png" width="150" title="User Profile">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Slick/commet2.png" width="150" title="Comments">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Slick/IMG_7344.PNG" width="150" title="Trending">
 </p>
 
 
