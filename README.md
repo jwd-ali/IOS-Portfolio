@@ -16,6 +16,24 @@ Swift(4-5), CoreData, CoreLocation, AVFoundation, Photos, Push Notifications, Al
 <img src="https://github.com/shoaib-akhtar/iOS-Portfolio/blob/master/images/Hidebox/HB1.jpg" width="230"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/shoaib-akhtar/iOS-Portfolio/blob/master/images/Hidebox/HB2.jpg" width="230" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/shoaib-akhtar/iOS-Portfolio/blob/master/images/Hidebox/HB3.jpg" width="230" title="iPad version">
 </p>
 
+# [Slick](Under development)
+slick is an articles sharing platform which enables you to rate article authenticity.
+**Curate** articles from Apps,Websites and Print Media
+**Populate** your news feed by following Friends, Family or anyone that interests you. Find  Contacts on slick or head to the Trending tab to follow users with similar interests
+**Rate** content for integrity, accuracy and trustworthiness
+
+This application consists of best animationts with *UIDynamicAnimator*, UI design, and easily-extended architecture (*VIPER*) using Firebase realtime database with cloud storage and *ML kit* for **OCR** Slick is built with Xcode and written entirely in Objective C. It utilizes Auto Layout with Storyboard for UI design.This app convert image news to Text and then Text to that news URL to post it in the application.
+
+### My Role ###
+Lead iOS developer and team lead for iOS . Communicating with client, understanding requirements and sprint planning.
+
+### Technologies ###
+Objective c, Reachability kit modified to add date support, CoreLocation, AVFoundation, Photos, Push Notifications with cloud messaging , Alamofire, Firebase Firestore, GoogleSignIn, FBSDKLoginKit , twitter-kit-ios, *Share Extension* , *today Extension* , 3D touch enabled ,  Face id and thumb Sign in enabled
+<p align="center">
+<img src="https://github.com/shoaib-akhtar/iOS-Portfolio/blob/master/images/Hidebox/HB1.jpg" width="230"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/shoaib-akhtar/iOS-Portfolio/blob/master/images/Hidebox/HB2.jpg" width="230" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/shoaib-akhtar/iOS-Portfolio/blob/master/images/Hidebox/HB3.jpg" width="230" title="iPad version">
+</p>
+
+
 # [SalamPlanet](https://itunes.apple.com/us/app/salamplanet/id1135829492?mt=8)
 The Ultimate Muslim Lifestyle App.
 Explore Your Muslim Lifestyle – Socialize, Eat, Play and Pray with SALAM PLANET!
