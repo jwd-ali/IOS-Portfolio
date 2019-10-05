@@ -91,3 +91,20 @@ Senior iOS developer. My responsibilites were to communicate with product owner,
 <p align="center">
 <img src="https://github.com/shoaib-akhtar/iOS-Portfolio/blob/master/images/SalamPlanet/SP1.jpg" width="230"  title="Feeds">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/shoaib-akhtar/iOS-Portfolio/blob/master/images/SalamPlanet/SP2.jpg" width="230" title="Marketplace">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/shoaib-akhtar/iOS-Portfolio/blob/master/images/SalamPlanet/SP3.jpg" width="230" title="Spirituality">
 </p>
+
+
+# CocoaPods Contributions
+
+
+## [SBAImagePickerController](https://github.com/shoaib-akhtar/SBAImagePickerController) 
+An easy multiple image picker controller for photo library.
+<p align="center">
+<a href="https://imgflip.com/gif/37ft7x"><img src="https://i.imgflip.com/37ft7x.gif" title="made at imgflip.com"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://imgflip.com/gif/38fus8"><img src="https://i.imgflip.com/38fus8.gif" title="made at imgflip.com"/></a>
+</p>
+## [SBAActionSheetPicker](https://github.com/shoaib-akhtar/SBAActionSheetPicker)
+Easy to use customised action sheet picker inspired by UIAlertController
+
+<p align="center">
+<a href="https://imgflip.com/gif/2bs8md"><img src="https://i.imgflip.com/2bs8md.gif" title="made at imgflip.com"/></a>
+</p>
