@@ -1,7 +1,8 @@
 # IOS-Portfolio
 Professionally taught iOS Engineer with 7 years experience. 
 I have spent my career leading client-side iOS development in Denmark and Pakistan.
-I have done multiple iOS applications ranging from social apps, classified ads and expense tracker.
+I have done multiple iOS applications ranging from social apps, classified ads, photo/video , utilities , sports , productivity and  health & fitness . I have been very enthusiastic and passionate about my field and exploring more and more knowledge in it.
+.
 # [Hidebox](https://itunes.apple.com/ph/app/hidebox/id1408444079?mt=8)
 An innovative, quick and easy way to keep track of your possessions giving you the ease of having the information on you when you need it the most.
 
