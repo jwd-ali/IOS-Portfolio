@@ -99,7 +99,7 @@ TIME TWISTER: TIME MANIPULATOR manipulates time to motivate yourself into outper
 From user flows to UI and development expensi is all done by me. 
 
 <p align="center">
-<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/timetwister/manipulate.png" width="200" title="Manipulate">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/timetwister/motivate.png" width="200" title="Motivate">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="hhttps://github.com/jwd-ali/IOS-Portfolio/blob/master/images/timetwister/lastlonger.png" width="200" title="LastLonger">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/timetwister/mind_mtr.png" width="200" title="Mind Meter">
+<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/timeTwister/manipulate.png" width="200" title="Manipulate">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/timeTwister/motivate.png" width="200" title="Motivate">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="hhttps://github.com/jwd-ali/IOS-Portfolio/blob/master/images/timeTwister/lastlonger.png" width="200" title="LastLonger">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/timeTwister/mind_mtr.png" width="200" title="Mind Meter">
 </p>
 
 
