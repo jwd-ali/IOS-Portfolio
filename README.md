@@ -92,6 +92,16 @@ Senior iOS developer. My responsibilites were to communicate with product owner,
 <img src="https://github.com/shoaib-akhtar/iOS-Portfolio/blob/master/images/SalamPlanet/SP1.jpg" width="230"  title="Feeds">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/shoaib-akhtar/iOS-Portfolio/blob/master/images/SalamPlanet/SP2.jpg" width="230" title="Marketplace">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/shoaib-akhtar/iOS-Portfolio/blob/master/images/SalamPlanet/SP3.jpg" width="230" title="Spirituality">
 </p>
 
+ # [Time Twister: Time Manipulator](https://apps.apple.com/us/app/time-twister-time-manipulator/id1323452217)
+TIME TWISTER: TIME MANIPULATOR manipulates time to motivate yourself into outperforming set goals. Overcome mental blocks by slowing time and tricking your body into achieving and surpassing targets.TIME TWISTER: TIME MANIPULATOR is the ultimate gym buddy. By defining how long a second lasts, you will be able to hold a plank for longer, run further or push yourself to do more crunches in a stipulated amount of time.
+
+### My Role ###
+From user flows to UI and development expensi is all done by me. 
+
+<p align="center">
+<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/timetwister/manipulate.png" width="200" title="Manipulate">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/timetwister/motivate.png" width="200" title="Motivate">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="hhttps://github.com/jwd-ali/IOS-Portfolio/blob/master/images/timetwister/lastlonger.png" width="200" title="LastLonger">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/timetwister/mind_mtr.png" width="200" title="Mind Meter">
+</p>
+
 
 # CocoaPods Contributions
 
