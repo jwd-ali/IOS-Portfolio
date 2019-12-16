@@ -122,7 +122,7 @@ for better performance
 ### Technologies ###
 * Swift(5)
 * NSOperation 
-* NSOperationQueue
+* NSOperationQueue with KVO
 * NSCache
 * NSUrlRequest 
 * NSUrlSession
