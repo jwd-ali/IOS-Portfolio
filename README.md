@@ -112,7 +112,9 @@ Date extraction from response data
 <p align="center">
  <a href="https://raw.githubusercontent.com/exyte/ReadabilityKit/master/demo.gif"><img src="https://raw.githubusercontent.com/exyte/ReadabilityKit/master/demo.gif" title="Readability demo"/>
 </p>
+ 
  ---
+ 
 ## [SBAImagePickerController](https://github.com/shoaib-akhtar/SBAImagePickerController) 
 An easy multiple image picker controller for photo library with swipe select enabled.
 * IOS 13 Dark mode enabled 
