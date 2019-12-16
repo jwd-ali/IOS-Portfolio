@@ -97,7 +97,7 @@ Senior iOS developer. My responsibilites were to communicate with product owner,
 TIME TWISTER: TIME MANIPULATOR manipulates time to motivate yourself into outperforming set goals. Overcome mental blocks by slowing time and tricking your body into achieving and surpassing targets.TIME TWISTER: TIME MANIPULATOR is the ultimate gym buddy. By defining how long a second lasts, you will be able to hold a plank for longer, run further or push yourself to do more crunches in a stipulated amount of time.
 
 ### My Role ###
-From user flows to UI and development expensi is all done by me. 
+From user flows to UI and development all done by me. 
 
 <p align="center">
 <img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/timeTwister/manipulate.png" width="200" title="Manipulate">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/timeTwister/motivate.png" width="200" title="Motivate">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/timeTwister/lastlonger.png" width="200" title="LastLonger">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/timeTwister/mind_mtr.png" width="200" title="Mind Meter">
@@ -105,8 +105,14 @@ From user flows to UI and development expensi is all done by me.
 
 
 # CocoaPods Contributions
-
-
+## [ReadabilityKit](https://github.com/exyte/ReadabilityKit) 
+Preview extractor for news, articles and full-texts in Swift
+### My Role ###
+Date extraction from response data
+<p align="center">
+ <a href="https://raw.githubusercontent.com/exyte/ReadabilityKit/master/demo.gif"><img src="https://raw.githubusercontent.com/exyte/ReadabilityKit/master/demo.gif" title="Readability demo"/>
+</p>
+ ---
 ## [SBAImagePickerController](https://github.com/shoaib-akhtar/SBAImagePickerController) 
 An easy multiple image picker controller for photo library with swipe select enabled.
 * IOS 13 Dark mode enabled 
