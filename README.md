@@ -119,6 +119,14 @@ Date extraction from response data
 Fetch images from source url asynchronously on the basis of priority in Table or Collection View using NSCache and NSOperation
 for better performance
 
+### Technologies ###
+* Swift(5)
+* NSOperation 
+* NSOperationQueue
+* NSCache
+* NSUrlRequest 
+* NSUrlSession
+
 ---
 
 ## [SBAImagePickerController](https://github.com/shoaib-akhtar/SBAImagePickerController) 
