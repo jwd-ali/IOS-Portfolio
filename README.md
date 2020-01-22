@@ -59,8 +59,6 @@ Lead iOS developer and team lead for iOS . Communicating with client, understand
 * Face id and thumb Sign in enabled
 
 
-### ReDesign ###
-
 <p align="center">
 <img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Slick/uploadUrl.png" width="150" title="Post Article">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Slick/unnamed.png" width="150" title="Rate Article">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Slick/profile.png" width="150" title="User Profile">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Slick/commet2.png" width="150" title="Comments">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Slick/IMG_7344.PNG" width="150" title="Trending">
 </p>
