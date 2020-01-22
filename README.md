@@ -110,7 +110,7 @@ Preview extractor for news, articles and full-texts in Swift
 ### My Role ###
 Date extraction from response data
 <p align="center">
- <a href="https://raw.githubusercontent.com/exyte/ReadabilityKit/master/demo.gif"><img src="https://raw.githubusercontent.com/exyte/ReadabilityKit/master/demo.gif" title="Readability demo"/>
+ <a href="https://raw.githubusercontent.com/exyte/ReadabilityKit/master/Assets/demo.gif"><img src="https://raw.githubusercontent.com/exyte/ReadabilityKit/master/demo.gif" title="Readability demo"/>
 </p>
  
  ---
