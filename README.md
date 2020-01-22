@@ -58,8 +58,6 @@ Lead iOS developer and team lead for iOS . Communicating with client, understand
 * 3D touch enabled 
 * Face id and thumb Sign in enabled
 
-<p align="center">
-<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Slick/SlickTheme.png" title="Slick Theme"></p>
 
 ### ReDesign ###
 
