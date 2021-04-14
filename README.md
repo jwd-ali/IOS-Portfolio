@@ -3,6 +3,26 @@ Professionally taught iOS Engineer with 7 years experience.
 I have spent my career leading client-side iOS development in Denmark and Pakistan.
 I have done multiple iOS applications ranging from social apps, classified ads, photo/video , utilities , sports , productivity and  health & fitness . I have been very enthusiastic and passionate about my field and exploring more and more knowledge in it.
 .
+
+# [YAP – Your Digital Banking Ap‪p](https://apps.apple.com/us/app/yap-your-digital-banking-app/id1498302242)
+YAP is Fintech application (RxSwift, MVVM-C): Being built using Reactive and MVVM-C, deals with managing user financial account and sub-accounts. Funds transfer, transactions and debit card management is supported. Project follows frameworks based modular structure With all UI build programatically. CI/CD implemented using FASTLANE and Circle CI.
+
+### My Role ###
+Senior iOS developer Communicating with YAP Bussiness team, understanding requirements and sprint planning.
+
+### Technologies ###
+* Swift(5)
+* RxSwift
+* Programatic UI
+* Modular Approaach
+* Dark mode support
+* Alamofire
+* Used SwiftUI and Combine for one Module
+
+<p align="center">
+<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(5).png" width="230"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(4).png" width="230" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w.png" width="230" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(2).png" width="230" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(7).png" width="230" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(3).png" width="230" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(1).png" width="230" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(6).png" width="230" title="iPad version">
+</p>
+
 # [Hidebox](https://itunes.apple.com/ph/app/hidebox/id1408444079?mt=8)
 An innovative, quick and easy way to keep track of your possessions giving you the ease of having the information on you when you need it the most.
 
