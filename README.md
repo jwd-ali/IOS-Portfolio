@@ -14,7 +14,6 @@ Senior iOS developer Communicating with YAP Bussiness team, understanding requir
 * Programatic UI
 * Modular Approaach
 * Dark mode support
-* Alamofire
 * Used SwiftUI and Combine for one Module
 * Fastlane + Circle CI
 * Repository Patteren
@@ -36,7 +35,6 @@ Senior iOS developer Communicating with Vowpay Bussiness team, New features and 
 * Programatic UI
 * Modular Approaach
 * Dark mode support
-* Alamofire
 * Fastlane + Travis CI
 * Repository Patteren
 
