@@ -1,5 +1,5 @@
 # IOS-Portfolio
-Overall 8 years of experience in Mobile App Development using Swift and Obj- C. Currently working with Digitify (Pvt) Ltd as Sr. Software Engineer (iOS). Deep knowledge of MVVM-C and VIPER with reactive (Rx) and non-reactive. Sound experience of implementing SOLID principles. Also an active contributor on github (with more than 40 repositories) and stackOverFlow.
+Overall 8 years of experience in Mobile App Development using Swift and Obj- C. Currently working with Delivery Hero as Sr. Software Engineer (iOS). Deep knowledge of MVVM-C and VIPER with reactive (Rx) and non-reactive. Sound experience of implementing SOLID principles. Also an active contributor on github (with more than 40 repositories) and stackOverFlow.
 .
 
 # [YAP – Your Digital Banking Ap‪p](https://apps.apple.com/us/app/yap-your-digital-banking-app/id1498302242)
